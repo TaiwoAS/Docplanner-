@@ -1,0 +1,285 @@
+.name {
+    color: rgb(38, 182, 182);
+    font-weight: bold;
+    font-family:Arial Narrow ;
+    font-size: 28px;
+}
+
+
+h1 {
+    display:inline;
+    font-family:Arial Narrow ;
+    font-size: 28px; 
+    color: grey;
+}
+
+ul {
+    display:inline;
+    font-size: 18px;
+}
+
+li {
+    display:inline;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+}
+.nav {
+    display: inline;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    height: 100%;
+}
+
+.container2 {
+    justify-content: center;
+}
+  
+.img1 {
+    display: flex;
+    justify-content: center;
+}
+
+#h2 {
+    text-align:center;
+    font-family: Arial;
+    font-size: 30px;
+    color: rgb(38, 182, 182);
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    /* border: 2px solid; */
+}
+
+ #div1 {
+     height: 500px;
+     width: 450px;
+     font-family: times new roman;
+     color: grey;
+     font-size: 16px;    
+     margin-right: 10px; 
+ }
+
+ .container4 {
+     display: flex;
+     justify-content: space-around;
+     align-content: flex-start;
+     width: 1000px;
+     height: 300px;
+     margin-left: 450px; 
+ }
+
+ #div2 {
+     height: 300px;
+     width: 250px;
+     background-color:  rgb(38, 182, 182);
+     color: white;
+     font-size: 25px;
+     border-radius: 10px;
+     padding-left: 35px;
+     padding-right: 15px; 
+ }
+
+ #div3 {
+    height: 300px;
+    width: 250px;
+    background-color:  rgb(52, 162, 235);
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    padding-left: 35px;
+     padding-right: 15px; 
+}
+
+#div4 {
+    height: 300px;
+    width: 250px;
+    background-color:  rgb(3, 25, 39);
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    padding-left: 35px;
+     padding-right: 15px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+select {
+    font-family: arial Narrow;
+    font-size: 18px;
+}
+
+
+.container5 {
+    display: flex;
+    justify-content: center;
+    width: 950px;
+    height: 200px;
+    margin-left: 470px; 
+}
+
+#div5 {
+    margin-top: 50px;
+    font-size: 25px;
+    font-family: arial;
+    height: 300px;
+    width: 500px;
+    color: rgb(38, 182, 182);
+}
+
+.container6 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-left: 100px;
+}
+
+.container7 {
+   background-color: rgb(218, 240, 240);
+   height:600px;
+   position:relative;
+}
+
+.container8 {
+    width: 500px;
+    height: 550px;
+    position: relative;
+}
+
+#h3
+{
+    font-family: Arial;
+    font-size: 30px;
+    color: rgb(38, 182, 182);
+    width: 300px;
+    margin-left: 470px;
+    font-weight: lighter;
+}
+
+#div6 {
+    height: 500px;
+     width: 400px;
+     font-family: times new roman;
+     color: grey;
+     font-size: 15px;    
+     margin-left: 470px;
+}
+
+.img2 {
+    position: absolute;
+    right: 1;
+    bottom: 0;
+    margin-left: 300px;
+}
+
+#div7 {
+    height: 250px;
+    width: 200px;
+    background-color:  rgb(255, 255, 255);
+    font-size: 25px;
+    border-radius: 5px;
+    padding-left: 35px;
+    padding-right: 15px;
+}
+
+#div8 {
+    font-family: times new roman;
+     color: grey;
+     font-size: 12px;
+     text-align: center;
+}
+
+.green {
+    color: rgb(38, 182, 182);
+    font-size: 20px;
+    text-align: center;
+}
+
+.flaglogo {
+    margin-left: 80px;
+}
+
+.container9 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    margin-left: 850px;
+    width:600px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top:50px;
+}
+
+#h4 {
+    text-align:center;
+    font-family: Arial;
+    font-size: 25px;
+    color: rgb(38, 182, 182);
+}
+
+.container10 {
+    height: 200px;
+}
+
+#h5 {
+    margin-top: 100px;
+}
+
+#div9 {
+    font-family: times new roman;
+     color: grey;
+     font-size: 14px;
+     text-align: center;
+     width: 400px;
+     margin-left: 735px;
+}
+
+.container11{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    margin-left: 470px;
+    width:1200px;
+    height: 900px;
+}
+
+button {
+    margin-left: 800px;
+    background-color: rgb(53, 100, 187);
+    color: white;
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+a{
+    color:grey;
+}
+
+.a1 {
+    color: white;
+    font-weight:bold;
+}
+
+#div10 {
+    font-family: times new roman;
+     color: grey;
+     font-size: 12px;
+     text-align: center;
+}
+
+.a2 {
+    color: blue;
+}
